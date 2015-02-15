@@ -1,0 +1,14 @@
+{
+  "name": "NaturalLanguageForm",
+  "version": "0.0.0",
+  "private": false,
+  "author": "Tympanus",
+  "license": "Tympanus license",
+  "devDependencies": {
+    "bower": "^1.3.12",
+    "gulp": "^3.8.10",
+    "gulp-plumber": "^0.6.6",
+    "gulp-webserver": "^0.9.0",
+    "opn": "^1.0.1"
+  }
+}
